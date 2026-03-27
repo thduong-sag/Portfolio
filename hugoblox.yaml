@@ -5,4 +5,4 @@ deploy:
   host: 'github-pages'
 template:
   id: "academic-cv"
-  name: "Academic CV"
+  name: "Hà Thùy Dương Portfolio"
