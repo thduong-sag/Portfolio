@@ -1,151 +1,43 @@
-# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/hugo-theme-academic-cv)
+# Hi there, I'm Hà Thùy Dương! 👋
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv/start/?utm_source=github&utm_medium=readme)
-
-<h1 align="center">The Portfolio That Works While You Sleep</h1>
-
-<p align="center">
-  <strong>Your unfair advantage in academia.</strong><br/>
-  Stop sending PDFs into the void. Build a living portfolio that boosts citations and lands offers.<br/>
-  Trusted by 250,000+ researchers at <strong>MIT, Stanford, and Google</strong>.
-</p>
-
-<p align="center">
-  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>🚀 Launch Free (60s)</b></a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/?open=academic-cv&loading=true&utm_source=github&utm_medium=readme">Live Demo</a>
-  &nbsp;•&nbsp;
-  <a href="https://marketplace.visualstudio.com/items?itemName=ownable.ownable"><b>Visual Editor</b></a>
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/z8wNYzb"><img src="https://img.shields.io/discord/722225264733716590?label=Join%20Discord&style=social" alt="Discord"></a>
-  <a href="https://github.com/HugoBlox/hugo-theme-academic-cv"><img src="https://img.shields.io/github/stars/HugoBlox/hugo-theme-academic-cv?label=Star%20Academic%20CV&style=social" alt="GitHub Stars"></a>
-</p>
+### 🎓 International Trade Student @ Foreign Trade University (FTU)
+### 💼 Business Intern @ ACT Construction Investment & Trading Co., Ltd
 
 ---
 
-## Why This Template?
+## 💫 About Me
+Tôi là một sinh viên chuyên ngành **Ngoại thương** với niềm đam mê mãnh liệt trong lĩnh vực Xuất nhập khẩu và Phân tích dữ liệu. Hiện tại, tôi đang tập trung hoàn thiện khóa luận tốt nghiệp và nâng cao kỹ năng truy vấn dữ liệu để tối ưu hóa quy trình logistics.
 
-Most CVs are static PDFs that get lost in the pile. This is an **intelligent portfolio** that works 24/7 to advance your career.
-
-- **🔮 Future-Proof:** Your content lives in simple **Markdown**. No database to break, no lock-in.
-- **🤖 AI-Ready:** Optimized for search engines and LLMs, so your work is found and cited.
-- **⚡ Zero Maintenance:** Auto-import citations from BibTeX and focus on research.
-- **✍️ Edit Visually:** Use **HugoBlox Studio** in VS Code — no coding needed. Full capabilities in Pro.
-
-<p align="center">
-  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme">
-    <img src="https://img.shields.io/badge/⚡️%20Get%20Your%20CV%20in%2060s-ff4655?style=for-the-badge" 
-    alt="Deploy this template" width="400">
-  </a>
-</p>
-
-![HugoBlox Studio in Action](https://raw.githubusercontent.com/HugoBlox/kit/main/.github/media/studio/slide-1.webp)
-*HugoBlox Studio: Drag-and-drop page builder inside VS Code.*
-
-> "My citations went up 3x after switching to this template. The citation auto-sync feature is a lifesaver."
-> — **Dr. Zhang**, AI Research Scientist, Meta
+- 🔭 **Hiện tại:** Thực tập sinh tại Phòng Xuất khẩu - Công ty ACT.
+- 🎓 **Học vấn:** Sinh viên năm cuối Đại học Ngoại thương (FTU).
+- 📊 **Dự án:** Nghiên cứu thị trường sàn đá công nghệ (SPC Flooring) tại Mỹ.
+- ⚡ **Sở thích:** Giải các bài toán SQL hóc búa và tìm hiểu về quản trị rủi ro thanh toán quốc tế.
 
 ---
 
-## Who This Is For
+## 🛠 Tech Stack & Skills
 
-- Students and grads applying to top labs and industry roles
-- Researchers who want a living, citable portfolio
-- Faculty/PIs showcasing publications, talks, and group news
+### 📂 International Trade
+![Static Badge](https://img.shields.io/badge/Incoterms_2020-blue)
+![Static Badge](https://img.shields.io/badge/Export_Logistics-green)
+![Static Badge](https://img.shields.io/badge/Payment_Risk_Management-red)
 
----
-
-## Features
-
-| Feature | Benefit |
-| :--- | :--- |
-| **Markdown, Jupyter, RStudio** | Write in the tools you already use. |
-| **Auto-Update Citations** | Drop in a BibTeX file; formatted lists generated automatically. |
-| **Visual Editor** | Drag-and-drop blocks to build pages in minutes. |
-| **Global CDN** | Blazing fast load times (100/100 Lighthouse scores). |
-| **Privacy First** | You own your data. Host for free on GitHub Pages. |
+### 💻 Data & Tools
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## Notebook → Posts and Slides
-
-- Publish your actual `.ipynb` as beautiful long-form posts — code, outputs, and narrative kept intact.
-- Slides in Markdown with Reveal.js: math, syntax highlight, diagrams, speaker notes.
-- Coming soon: **Notebook → Slides (beta)**. Request early access in Discord.
-
-Learn more: docs on [Notebooks](https://docs.hugoblox.com/reference/markdown/#-notebooks) and [Slides](https://docs.hugoblox.com/guides/slides/).
-
----
-
-## Why Go Pro (from $8/m)
-
-- Enhanced HugoBlox Studio visual editor — save 10–20 hours setting up and polishing
-- Premium CV & Resumé designs — make an unforgettable first impression
-- Pro blocks, remove attribution, and priority support
-
----
-
-## Free vs Pro
-
-| Feature | Academic CV (Free) | Academic CV Pro & Resumé Pro |
-| --- | --- | --- |
-| Design | Professional & clean | Premium designs |
-| Layouts | Standard sections | Advanced timelines & layouts |
-| Courses/Lectures | Basic | Fully-Featured |
-| First Impression | Strong | Unforgettable |
-| Discord Support | Community | Priority |
-
-<p align="center">
-  <a href="https://hugoblox.com/pricing?utm_source=github&utm_medium=readme"><b>💎 Upgrade to Pro</b></a><br/>
-  <a href="https://hugoblox.com/templates/academic-cv-pro/start?utm_source=github&utm_medium=readme">✨ Deploy Academic CV Pro</a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/resume-pro/start?utm_source=github&utm_medium=readme">📄 Deploy Resumé Pro</a>
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=thduong&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-## Get Started
+## 📫 Let's Connect!
+- 📧 Email: [thyduong0903@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/haduong1809/]
 
-### Option 1: No-Code (Fastest)
-Launch a fully hosted site in your browser. No software to install.
-
-👉 [**Launch in Browser (Free)**](https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme)
-
-### Option 2: Studio (Visual Editor)
-1) Install [HugoBlox Studio](https://marketplace.visualstudio.com/items?itemName=ownable.ownable) for VS Code  
-2) Open this project and edit visually
-
-### Option 3: CLI (Developers)
-1) Install [Hugo](https://docs.hugoblox.com/start/cli/)
-2) Create your site with the CLI:
-
-```bash
-npx hugoblox create site --template academic-cv
-```
-
----
-
-## FAQ
-
-- Do I need to know Hugo? No — you can edit visually or write Markdown.
-- Can I host for free? Yes — GitHub Pages/Netlify are supported.
-- Can I export/migrate later? Yes — your site is just files.
-- Can I cancel Pro anytime? Yes.
-
----
-
-## Community & Support
-
-- 💬 [**Discord Community**](https://discord.gg/z8wNYzb)
-- 📚 [**Documentation**](https://docs.hugoblox.com/?utm_source=github&utm_medium=readme)
-- 🐦 [**Follow on X**](https://x.com/MakeOwnable)
-- ⭐ [**Star on GitHub**](https://github.com/HugoBlox/kit)
-
----
-
-MIT © 2016-Present [George Cushen](https://georgecushen.com)
-
-<!--START_SECTION:news-->
-<!--END_SECTION:news-->
+*"Logic will get you from A to B. Imagination will take you everywhere."*
